@@ -56,6 +56,7 @@ Microsoft is participating in Hacktoberfest this year! Details [here](https://op
 | Siffrein sigy | II | IT |
 | Akshay Sharma | III | CSE |
 | Namandeep Singh | III | CSE |
+| [ AYUSHI ](https://github.com/ayushianan) | II | CSE |
 | Harshit Bansal | II | CSE |
 | Manpreet | I | IT |
 
